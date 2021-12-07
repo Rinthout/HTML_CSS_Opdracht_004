@@ -1,0 +1,39 @@
+body { 
+    color:indigo;
+    background-color:lavender;
+}
+.black-border {
+    border: 2px solid midnightblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+#footer {
+    background-color:lightgray;
+    text-align: center;
+}
+.gray-text {
+    text-decoration-color:dimgray;
+}
+.lettertype{
+    font-family:fantasy;
+    font-size:1.2em;
+    color:ghostwhite;
+}
+.knop {
+    background-color:rgb(233, 90, 23);
+    color:white;
+    text-align: center;
+    padding: 0px 25px;
+    font-size:100%;
+    border-radius: 8px;
+}
+.fotoborder {
+    width: 250px;
+	padding: 10px;
+	text-align: center;
+	border: 3px dashed #ccc;
+    border-radius: 15px;    
+}
+.body-about {
+    background-color:darkslateblue;
+}
